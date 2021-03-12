@@ -21,7 +21,7 @@
     "element-ui": "^2.8.2",
     "file-saver": "^2.0.2",
     "html2canvas": "^1.0.0-rc.3",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "vue": "^2.5.2",
     "vue-chartjs": "^3.4.2",
     "vue-echarts": "^4.0.3",
